@@ -1,4 +1,4 @@
-name: on special
+name: on special pas de problem Mr rougi 
 on: 
   push:
     banches:
@@ -8,7 +8,7 @@ jobs:
   first-job:
     runs-on: ubuntu-latest
     steps:
-      - name: print bonjour 
+      - name: print bonjour Speedy la3ziz
         run: echo "bonjour"
       - name: print comment
         run: echo "comment ça va ?" 
